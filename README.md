@@ -1,3 +1,3 @@
 # Web-Scrapping
 
-Finding the cheapest in stock products on Newegg. 
+Finding the cheapest in stock graphics card on Newegg. 
